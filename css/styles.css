@@ -1,0 +1,33 @@
+body {
+	margin: 0;
+	font-family: arial;
+	color: #505050;
+}
+a {
+  color: #42B5CE;
+}
+a:hover {
+  border: none;
+}
+.container {
+	width: 728px;
+	max-width: 100%;
+	padding: 20px;
+	box-sizing: border-box;
+	margin: auto;
+}
+h1 {
+	font-size: 250%;
+}
+p {
+	line-height: 27px;
+	border-bottom: 1px solid #e8e8e8;
+	padding: 25px 0;
+	margin: 30px 0;
+	border-top: 1px solid #e8e8e8;
+}
+#komentar {
+	box-sizing: border-box;
+	padding: 15px;
+	background: #f8f8f8;
+}
